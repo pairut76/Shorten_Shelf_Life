@@ -11,10 +11,10 @@ The solution will determine and predict future sales of approximately how many u
 Benefits:
 
 	1. Maximize Space - when a particular item is determined to sell at a particular date or time we can stock up that particular 
-	item and also expect the space to be available after the item is sold.
+	   item and also expect the space to be available after the item is sold.
 	2. Maximizes Turnover - with this predictive model we can expect the products to have less “shelf life”. 
 	3. Cash Flow - the quicker items are sold, the more immediate profits or gains the company can make in contrast to reshelving 
-	the product and it remains unsold, the company can be sitting on inventory and no cash flow.
+	   the product and it remains unsold, the company can be sitting on inventory and no cash flow.
 
 Taking the time to research this data and review the solutions will greatly improve the 
 business overall - maximizing space, turnover and improving cash will move the company forward and allow future expansion (such as more room for future products)
