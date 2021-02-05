@@ -1,4 +1,4 @@
-# <center>Shorten_Shelf_Life
+<center># Shorten_Shelf_Life
 
 ## Analyzing Inventory Trends: Predicting Quantity Sold
 
